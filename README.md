@@ -1,4 +1,4 @@
-## Basic Message mobile fort application with Go Fiber , VueJS and Pusher.
+## Basic Message mobile first application with Go Fiber , VueJS and Pusher.
 ![alt text](/client/public/image.jpg)
 ### Setup locally:
 
